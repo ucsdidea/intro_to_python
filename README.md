@@ -22,3 +22,8 @@ If you need more info, see:
 - http://docs.continuum.io/anaconda/install.html
 - http://docs.continuum.io/anaconda-launcher/index.html
 - https://github.com/jupyter/notebook/blob/master/docs/source/examples/Notebook/Running%20Code.ipynb
+
+## Trying the code out (online)
+If you're having trouble installing or running Python locally, you can alternative using the [Binder](http://mybinder.org/) hosting service by clicking here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ucsdidea/intro_to_python)
+
+**NOTE** The Binder service is free, but it is a temporary fix.
