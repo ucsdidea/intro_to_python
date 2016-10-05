@@ -2,26 +2,18 @@
 Files for the Intro to Python workshops, presented by the IDEA Student Center of UC San Diego.
 
 ## Requirements
-- python 2.7.x
-- ipython-notebook
+- python 2.7 or 3.5
+- ipython notebook (aka jupyter notebook)
 - numpy
 - matplotlib
 
 ## Installation
-The easiest way to install Python and the above packages is using Anaconda, a free Python distribution created by [Continuum Analytics](http://continuum.io/) that is compatible with Windows, Mac OSX and Linux. To install:
+We *highly* recommend installing Python and related scientific packages using Anaconda, a free Python distribution created by [Continuum Analytics](http://continuum.io/) that is compatible with Windows, Mac OSX and Linux. To install:
 
-1. download the Python **2.7** installer for your OS here: [http://continuum.io/downloads](http://continuum.io/downloads)
-2. run the installer
-3. verify that the install worked:
-    1. open the "Launcher" app (a graphical interface installed as part of Anaconda)
-    2. "Launch" an ipython-notebook session (which will open in your web browser)
-    3. create a new notebook: New >> Notebooks >> Python 2
+1. go to the Anaconda download page: [http://continuum.io/downloads](http://continuum.io/downloads)
+2. download the Python **3.5** installer for your OS
+3. run the installer
 
-
-If you need more info, see:
-- http://docs.continuum.io/anaconda/install.html
-- http://docs.continuum.io/anaconda-launcher/index.html
-- https://github.com/jupyter/notebook/blob/master/docs/source/examples/Notebook/Running%20Code.ipynb
 
 ## Trying the code out (online)
 If you're having trouble installing or running Python locally, you can alternative using the [Binder](http://mybinder.org/) hosting service by clicking here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ucsdidea/intro_to_python)
