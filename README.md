@@ -25,3 +25,5 @@ If you're having trouble installing or running Python locally, you can alternati
 If you're switching to Python from Matlab, this guide covers most of the common code equivalents:https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html 
 
 Examples of plotting with Matplotlib: http://matplotlib.org/gallery.html
+
+Notes from a talk about writing beautiful Python code: https://gist.github.com/JeffPaine/6213790
