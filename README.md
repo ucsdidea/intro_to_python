@@ -19,3 +19,9 @@ We *highly* recommend installing Python and related scientific packages using An
 If you're having trouble installing or running Python locally, you can alternative using the [Binder](http://mybinder.org/) hosting service by clicking here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ucsdidea/intro_to_python)
 
 **NOTE** The Binder service is free, but it is a temporary fix.
+
+
+## Further resources
+If you're switching to Python from Matlab, this guide covers most of the common code equivalents:https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html 
+
+Examples of plotting with Matplotlib: http://matplotlib.org/gallery.html
