@@ -2,8 +2,8 @@
 Files for the Intro to Python workshops, presented by the IDEA Student Center of UC San Diego.
 
 ## Requirements
-- python 2.7 or 3.5
-- ipython notebook (aka jupyter notebook)
+- python 2.x or 3.x
+- jupyter notebook (formerly known as ipython-notebook)
 - numpy
 - matplotlib
 
