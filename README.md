@@ -6,6 +6,9 @@ Files for the Intro to Python workshops, presented by the IDEA Student Center of
 - jupyter notebook (formerly known as ipython-notebook)
 - numpy
 - matplotlib
+- scipy
+- pandas
+- scikit-learn
 
 ## Installation
 We *highly* recommend installing Python and related scientific packages using Anaconda, a free Python distribution created by [Continuum Analytics](http://continuum.io/) that is compatible with Windows, Mac OSX and Linux. To install:
