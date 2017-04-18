@@ -14,7 +14,7 @@ Files for the Intro to Python workshops, presented by the IDEA Student Center of
 We *highly* recommend installing Python and related scientific packages using Anaconda, a free Python distribution created by [Continuum Analytics](http://continuum.io/) that is compatible with Windows, Mac OSX and Linux. To install:
 
 1. go to the Anaconda download page: [http://continuum.io/downloads](http://continuum.io/downloads)
-2. download the Python **3.5** installer for your OS
+2. download the Python **3.x** installer for your OS
 3. run the installer
 
 
